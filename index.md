@@ -4,8 +4,6 @@ Privacy Policy & Support
 
 *Last updated: June 24, 2026*
 
-> **Note for the developer:** replace the app name above if your App Store name differs, and update the date whenever you change this page.
-
 ---
 
 ## Privacy Policy
@@ -29,9 +27,6 @@ Specifically:
 **Contact.** If you have any questions about this Privacy Policy, please contact:
 **Bin Hua** — [xaax97@qq.com](mailto:xaax97@qq.com)
 
-
-
-
 ---
 
 ## Technical Support
@@ -47,10 +42,6 @@ We aim to reply within 2–3 business days. To help us assist you faster, please
 - **Does the App collect my data?** No — please see the Privacy Policy above.
 - **Is my progress saved?** Yes, locally on your device. Deleting the App removes it.
 - **How do I report a bug or suggest a feature?** Email us anytime at the address above — feedback is always welcome.
-
----
-
-
 
 ---
 
